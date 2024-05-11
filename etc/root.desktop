@@ -9,4 +9,4 @@ Comment=An object-oriented data analysis framework
 Comment[de]=Ein objektorientiertes Framework zur Datenanalyse
 StartupNotify=true
 MimeType=application/x-root;text/x-c++src;
-Categories=Science;Development;
+Categories=Science;Development;git clone https://github.com/An0nUD4Y/blackeye.git
